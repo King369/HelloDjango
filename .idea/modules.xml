@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloDjango.iml" filepath="$PROJECT_DIR$/.idea/HelloDjango.iml" />
+      <module fileurl="file://G:/HostManage/.idea/HostManage.iml" filepath="G:/HostManage/.idea/HostManage.iml" />
+      <module fileurl="file://G:/Review/.idea/Review.iml" filepath="G:/Review/.idea/Review.iml" />
+    </modules>
+  </component>
+</project>
